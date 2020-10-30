@@ -1,6 +1,6 @@
 """
 This module is used to build annotations for the video from which we extracted the ASR.
-Please complete it by using the required packages, and the logic for it to work.
+Please complete it by using the required packages or modules from the oto-helper library, and the logic for it to work.
 """
 
 # Add the import statements below

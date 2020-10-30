@@ -1,6 +1,6 @@
 """
 This module is used to extract Automatic Speech Recognition (ASR) of a particular video, and assists another module to build a transcript.
-Please complete it by using the required packages, and the logic for it to work.
+Please complete it by using the required packages or modules from the oto-helper library, and the logic for it to work.
 """
 
 # Add the import statements below

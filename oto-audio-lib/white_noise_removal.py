@@ -1,6 +1,6 @@
 """
 This audio library helps to detect and remove the white noise from a piece of audio.
-Please complete it by using the required packages, and the logic for it to work.
+Please complete it by using the required packages or modules from the oto-helper library, and the logic for it to work.
 """
 
 # Add the import statements below

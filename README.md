@@ -1,6 +1,8 @@
-# OTP Helper
+# OTO Helper
+Audio processing library built with Python
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/vrook-co/oto-audio/blob/master/LICENSE)
+=======
 
 ## Installation
 
@@ -26,6 +28,4 @@ Audio processing library built with Python
 # License #
 
 [MIT License](https://github.com/vrook-co/oto-audio/blob/master/LICENSE)
-
-
 # 🎃 Hacktoberfest 🎃

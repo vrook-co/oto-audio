@@ -1,4 +1,4 @@
-# OTO Helper
+# OTO Audio
 Audio processing library built with Python
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/vrook-co/oto-audio/blob/master/LICENSE)
